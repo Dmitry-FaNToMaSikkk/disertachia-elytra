@@ -3,7 +3,7 @@
 ## ТЕМА: Системный анализ элемента "элитра" как инструмента фазового перехода в креативно-ориентированной песочной среде Minecraft
 
 **Автор:** Дмитрий FaNToMaSikkk  
-**Соавторы:** Termos_s_chaem, Triggerlest, V1kysik, bobr_kupwa, MrrMaikl, BonHwan, Nirotop, MadKULOLO, TheMainer_, ebar_drakonov, DeflixNPS, art1st, quellerz, mixquartz  
+**Соавторы:** Termos_s_chaem, Triggerlest, V1kysik, bobr_kupwa, MrrMaikl, BonHwan, Nirotop, MadKULOLO, TheMainer_, ebar_drakonov, DeflixNPS, art112st, quellerz, mixquartz  
 **Учреждение:** Анти-анонимное общество обсуждателей за спиной (AAOOзС)  
 **Год:** 25.09.2025
 
